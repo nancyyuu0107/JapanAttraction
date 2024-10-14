@@ -1,0 +1,59 @@
+[
+	{
+		"attraction_id":"1",
+		"attraction_name": "Senso-Ji Temple 淺草寺",
+		"location": "東京",
+		"attraction_photo":"SensoJiTemple",
+		"discribe": "淺草寺是東京歷史最悠久的寺廟，寺廟的外門為雷門。門後便是仲見世通，這是一條東京購物商店街，店鋪販賣著色彩鮮明的扇子、米餅和各種美食。"
+		},
+	{
+		"attraction_id":"2",
+		"attraction_name": "Tokyo Tower 東京鐵塔",
+		"location": "東京",
+		"attraction_photo":"TokyoTower",
+		"discribe": "東京鐵塔的設計以埃菲爾鐵塔為範本。東京鐵塔有兩種照明方式，Landmark Light:顏色會根據季節略有變化，從夏季的冷銀色到冬季的暖橙色。、Infinity Diamond Veil:周圍的光粒子像鑽石一樣閃閃發光。這種發光裝置能夠將燈光的顏色改變為多達 7 種顏色。"
+		
+		},
+	{
+		"attraction_id":"3",
+		"attraction_name": "Meiji Shrine 明治神宮",
+		"location": "東京",
+		"attraction_photo":"MeijiShrine",
+		"discribe": "為纪念明治天皇和昭和天皇的功绩而建立的，明治神宫代表了神道信仰的核心，是日本东京市中心最大的神社之一。"
+		
+		},
+	{
+		"attraction_id":"4",
+		"attraction_name": "Dotombori 道顿堀",
+		"location": "大阪",
+		"attraction_photo":"Dotombori",
+		"discribe": "道頓堀街上聳立著各種巨大立體招牌，是代表大阪南區的繁華街道，道頓堀上的固力果跑跑人堪稱世界最有名戶外廣告板。"
+		
+		},
+	{
+		"attraction_id":"5",
+		"attraction_name": "Universal Studios Japan 日本環球影城",
+		"location": "大阪",
+		"attraction_photo":"UniversalStudioJapan",
+		"discribe": "各個區域帶有各自不同的表情，是個充滿感動的世界。集結了世界級娛樂的主題公園，以好萊塢知名電影，主題人氣設施有哈利波特，超級任天堂世界等等，還有遊行。"
+		
+		},
+	{
+		"attraction_id":"6",
+		"attraction_name": "Osaka Castle 大阪城",
+		"location": "大阪",
+		"attraction_photo":"OsakaCastle",
+		"discribe": "大阪城位於大阪城公園內，與名古屋城、熊本城並稱日本歷史上三名城，同時也是百大名城之一，又稱「金城」或「錦城」。最初的大阪城由戰國三傑之一的豐臣秀吉（另二傑為織田信長、德川家康）所建造。"
+		
+		},
+	{
+		"attraction_id":"7",
+		"attraction_name": "Shitenno-ji Temple 四天王寺",
+		"location": "大阪",
+		"attraction_photo":"ShitennoJiTemple",
+		"discribe": "大阪四天王寺，日本最早的佛教寺院，也是最受日本人信奉的廟宇之一。四天王寺的西門是欣賞日落的最佳位置，有「夕陽丘」之稱。"
+		
+		}
+	
+		
+]
